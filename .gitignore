@@ -1,0 +1,38 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore Expo specific files
+.expo/
+.expo-shared/
+.cache/
+.metro/
+.env
+
+# Ignore iOS build artifacts
+ios/Pods/
+ios/build/
+
+# Ignore Android build artifacts
+android/app/build/
+android/captures/
+android/build/
+android/gradle/
+
+# Ignore MacOS-specific files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore yarn.lock file (uncomment if you're using Yarn)
+# yarn.lock
+
+# Ignore Android Keystore files (this is just an example; adjust as needed)
+# android/app/debug.keystore
+# android/app/release.keystore
+
+# Ignore .env.local files (used for environment variables; customize as needed)
+# .env.local
